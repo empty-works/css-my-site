@@ -1,0 +1,48 @@
+.top-container {
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 100px;
+}
+
+.middle-container {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+}
+
+.bottom-container {
+	width: 200px;
+	height: 200px;
+	background-color: black;
+}
+
+.first-cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+
+.second-cloud {
+	position: absolute;	
+	left: 300px;
+	bottom: 300px;
+}
+
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+h1 {
+	margin: 0px;
+	font-family: 'Sacramento', cursive;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+}
