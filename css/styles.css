@@ -10,6 +10,10 @@
 .bottom-container {
 }
 
+.yoda-strikes-back {
+	border-radius: 50%;
+}
+
 .first-cloud {
 	position: absolute;
 	right: 300px;
