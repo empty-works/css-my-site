@@ -32,10 +32,14 @@
 
 .health-med-image {
 	width: 25%;
+	float: left;
+	margin-right: 30px;
 }
 
 .sports-comp-image {
 	width: 25%;
+	float: right;
+	margin-left: 30px;
 }
 
 .skill-row {
