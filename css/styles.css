@@ -30,6 +30,19 @@
 	font-weight: normal;
 }
 
+.health-med-image {
+	width: 25%;
+}
+
+.sports-comp-image {
+	width: 25%;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+}
+
 body {
 	margin: 0px;
 	text-align: center;
