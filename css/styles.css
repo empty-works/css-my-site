@@ -8,10 +8,17 @@
 }
 
 .bottom-container {
+	background-color: #66BFBF;
+}
+
+.contact-me {
+	margin-bottom: 100px;	
 }
 
 .yoda-strikes-back {
+	width: 15%;
 	border-radius: 50%;
+	margin-top: 50px;
 }
 
 .first-cloud {
@@ -45,6 +52,7 @@
 .skill-row {
 	width: 50%;
 	margin: 100px auto 100px auto;
+	line-height: 2;	
 }
 
 body {
