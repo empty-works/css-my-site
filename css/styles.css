@@ -20,6 +20,19 @@
 	margin-bottom: 100px;	
 }
 
+.footer-link {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	margin: 0 15px  0 15px;
+	text-decoration: none;
+}
+
+.footer-owner-name {
+	color: white;
+	font-size: 0.8em;
+	margin-top: 40px;
+}
+
 .yoda-strikes-back {
 	width: 15%;
 	border-radius: 50%;
