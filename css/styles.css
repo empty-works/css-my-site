@@ -9,12 +9,11 @@
 
 .bottom-container {
 	position: relative;
-	height: 150px;
 	color: #11999E;
 	font-weight: bold;
 	margin: 50px auto 50px auto;
 	background-color: #66BFBF;
-	font-family: 'Merriweather', serif;
+	padding: 50px;
 }
 
 .contact-me {
@@ -56,6 +55,8 @@
 }
 
 .skill-row {
+	font-weight: bold;
+	text-align: left;
 	width: 50%;
 	margin: 100px auto 100px auto;
 	line-height: 2;	
@@ -83,6 +84,8 @@ h2 {
 h3 {
 	color: #11999E;
 	font-family: 'Montserrat', sans-serif;
+	font-size: 
+	font-weight: bold;
 }
 
 a {
