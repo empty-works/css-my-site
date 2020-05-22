@@ -105,6 +105,13 @@ h3 {
 	font-weight: bold;
 }
 
+hr {
+	width: 5%;
+	border-style: dotted none none;	
+	border-width: 6px;
+	border-color: grey;
+}
+
 a {
 	color: #11999E;
 }
