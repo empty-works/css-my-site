@@ -5,6 +5,7 @@
 }
 
 .middle-container {
+	margin: 100px 0;
 }
 
 .bottom-container {
@@ -59,6 +60,10 @@
 	margin-top: 40px;
 }
 
+.intro-txt {
+	width: 30%;	
+}
+
 .yoda-strikes-back {
 	width: 15%;
 	border-radius: 50%;
@@ -106,6 +111,7 @@
 }
 
 body {
+	color: #40514E;
 	margin: 0px;
 	text-align: center;
 	font-family: 'Merriweather', serif;
@@ -122,6 +128,8 @@ h2 {
 	color: #66BFBF;
 	font-size: 2.5rem;
 	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	padding-bottom: 10px;
 }
 
 h3 {
