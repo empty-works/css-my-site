@@ -51,6 +51,10 @@
 	bottom: 300px;
 }
 
+.profile {
+	font-weight: bold;
+}
+
 .prog-subtitle {
 	font-weight: normal;
 }
