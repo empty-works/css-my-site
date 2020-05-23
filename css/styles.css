@@ -47,6 +47,11 @@
 	margin-bottom: 100px;	
 }
 
+.contact-message {
+	width: 40%;	
+	margin: 40px auto 60px;
+}
+
 .footer-link {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
